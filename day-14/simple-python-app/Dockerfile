@@ -1,5 +1,5 @@
 # Base image
-FROM python3:latest
+FROM python
 
 # Set the working directory inside the container
 WORKDIR /app
